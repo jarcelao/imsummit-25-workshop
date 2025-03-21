@@ -1,0 +1,106 @@
+---
+title: "'It Depends'"
+subtitle: "What Solutions Architects Actually Do"
+date: "2025-3-22"
+author: "Jericho Arcelao"
+format: 
+    revealjs:
+        theme: dark
+---
+
+## License
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+
+
+## Picture This...
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUxNGo3amgwNTJjZ2x6ZXlyNGNyejdxMTVpcGd5cW5rOHo0dDBvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUtVdGeIU8lmo/giphy.gif)
+
+::: {.notes}
+Today, we’re diving into solutions architecture—aka the job where you solve big problems, draw fancy diagrams, and master the phrase 'It depends.' By the end of this, you’ll see why I went from coding in the trenches to being the person who says, 'Well, maybe…' for a living
+:::
+
+# Okay, but do we actually do?
+
+# Money 🔃 Servers
+No, we're not wizards nor therapists...
+
+::: {.notes}
+Solutions architecture is like being a translator. Business folks say, 'Make us money!' Developers say, 'Gimme code!' My job? Figure out how to turn 'money' into 'servers' without anyone crying.
+:::
+
+## A Day in the Life (1)
+
+- Your friend walks in, believing they have come up with the next big thing in social media.
+    - "We're gonna be the next TikTok, I just know it!" they say.
+
+**What do you say?**
+
+---
+
+## A Day in the Life (2)
+
+- Your client gives you a tour of their office. Turns out, their entire database lives on a single server running since 2005.
+    - "Well, can we scale with this?" he asks.
+
+**What do you say?**
+
+---
+
+## A Day in the Life (3)
+
+- An executive from your client just came from a tech conference.
+    - "I know what we need! More AI, blockchain, and quantum tech!" he proudly acclaims.
+
+**What do you say?**
+
+::: {.notes}
+Solutions architects don’t just pick tech—we weigh trade-offs: cost, speed, scalability, and how much the client will hate us later.
+:::
+
+# The Formula
+Problem ➕ Budget? ➕ Tech? ➕ "It Depends" 🟰 💰 Profit
+
+::: {.notes}
+Saying 'It depends' isn’t a cop-out—it’s a superpower. It means I’m thinking about their problem, not just my favorite shiny tool. Do they need cheap? Fast? Future-proof? Yes, but also no—because trade-offs.
+:::
+
+## So You Wanna Architect a Solution? {.center}
+It depends... we'll figure it out in the cloud 😅
+
+::: {.notes}
+You don’t need to know everything—just how to ask the right questions. Start small: next time your prof asks about a project, say, 'It depends,' and watch their face.
+:::
+
+# Hands-on Activity 
+Let's put what you've learned to the test!
+
+## Case Briefer
+
+Imagine this: It’s 11 p.m. 
+
+You’re at your house, trying to submit your assignment before the deadline. 
+
+- Your roommate sibling's streaming Netflix
+- Dad's outside the room gaming
+- Mom's TikTok dance video just buffered for the third time
+
+Your Wi-Fi? Dead. Your family looks at you in contempt.
+
+You’re the solutions architect now. **What do you do?**
+
+## Case Briefer (cont.)
+
+- Problem: Wi-Fi’s slow or down
+- Stakeholders: You and your family
+- Constraints: PHP 1000 budget, no rewiring the house, 24-hour deadline
+- Needs: Streaming, gaming, assignment uploads—all at once
+
+## Mechanics
+
+- You have 15 minutes to come up with a solution
+    - You must give your solution a witty name. This will be your team name
+- Afterwards, each group gets 2 minutes max to present your solution
+    - Convince the room (a.k.a. your family) why we should go with your idea
+- At the end, we will all vote on whose solution is the best
