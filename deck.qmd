@@ -13,7 +13,7 @@ format:
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
 
-## Picture This...
+## Picture This!
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUxNGo3amgwNTJjZ2x6ZXlyNGNyejdxMTVpcGd5cW5rOHo0dDBvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUtVdGeIU8lmo/giphy.gif)
 
@@ -21,7 +21,7 @@ format:
 Today, we’re diving into solutions architecture—aka the job where you solve big problems, draw fancy diagrams, and master the phrase 'It depends.' By the end of this, you’ll see why I went from coding in the trenches to being the person who says, 'Well, maybe…' for a living
 :::
 
-# Okay, but do we actually do?
+# Okay, but what do we actually do?
 
 # Money 🔃 Servers
 No, we're not wizards nor therapists...
@@ -60,17 +60,10 @@ Solutions architects don’t just pick tech—we weigh trade-offs: cost, speed, 
 :::
 
 # The Formula
-Problem ➕ Budget? ➕ Tech? ➕ "It Depends" 🟰 💰 Profit
+Problem ➡️ Budget? ➡️ Tech? ➡️ **"It Depends"** 🟰 💰 Profit
 
 ::: {.notes}
 Saying 'It depends' isn’t a cop-out—it’s a superpower. It means I’m thinking about their problem, not just my favorite shiny tool. Do they need cheap? Fast? Future-proof? Yes, but also no—because trade-offs.
-:::
-
-## So You Wanna Architect a Solution? {.center}
-It depends... we'll figure it out in the cloud 😅
-
-::: {.notes}
-You don’t need to know everything—just how to ask the right questions. Start small: next time your prof asks about a project, say, 'It depends,' and watch their face.
 :::
 
 # Hands-on Activity 
@@ -82,13 +75,15 @@ Imagine this: It’s 11 p.m.
 
 You’re at your house, trying to submit your assignment before the deadline. 
 
-- Your roommate sibling's streaming Netflix
+- Your sibling's streaming Netflix
 - Dad's outside the room gaming
 - Mom's TikTok dance video just buffered for the third time
 
 Your Wi-Fi? Dead. Your family looks at you in contempt.
 
 You’re the solutions architect now. **What do you do?**
+
+---
 
 ## Case Briefer (cont.)
 
@@ -97,10 +92,30 @@ You’re the solutions architect now. **What do you do?**
 - Constraints: PHP 1000 budget, no rewiring the house, 24-hour deadline
 - Needs: Streaming, gaming, assignment uploads—all at once
 
+---
+
 ## Mechanics
 
+- Group yourselves randomly
+    - The facilitator will handle this
 - You have 15 minutes to come up with a solution
     - You must give your solution a witty name. This will be your team name
-- Afterwards, each group gets 2 minutes max to present your solution
+- Afterwards, each team gets 2 minutes max to present their solution
     - Convince the room (a.k.a. your family) why we should go with your idea
-- At the end, we will all vote on whose solution is the best
+
+---
+
+## So You Wanna Architect a Solution? {.center}
+It depends... we'll figure it out in the cloud 😅
+
+::: {.notes}
+You don’t need to know everything—just how to ask the right questions. Start small: next time your prof asks about a project, say, 'It depends,' and watch their face.
+:::
+
+---
+
+## Thank You!
+
+![](media/repo.png)
+
+GitHub: [jarcelao/imsummit-25-workshop](https://github.com/jarcelao/imsummit-25-workshop)
